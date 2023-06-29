@@ -1,3 +1,3 @@
 # Amharic-Colors
 Learn Amharic Colors
-I made this web site for fun!
+I made this website for fun!
